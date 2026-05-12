@@ -39,17 +39,8 @@ The database is architected to handle the following real-world administrative sc
 
 ## Database Files
 
-* 📄 **Database Script:** [Download SQL Schema File](education-dbms.sql)
+* 📄 **Database Script:** [View SQL Schema File](education-dbms.sql)
 * 📊 **Entity Relationship Diagram:**
 
-![School Database ERD](ERDiagram-school dbms.png)
-
-
-
-
-
-
-
-
-
+![School Database ER Diagram](ERDiagram-school-dbms.png)
 
